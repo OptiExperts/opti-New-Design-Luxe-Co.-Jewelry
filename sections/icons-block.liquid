@@ -1,0 +1,27 @@
+{% case section.settings.feature_block_id %}
+  {% when 'cf729b6f-5ee2-43fa-ba0c-14213b82f683' %}
+  <div class="kaching-icon-block" data-block-id="cf729b6f-5ee2-43fa-ba0c-14213b82f683"></div>
+{% when '627937dc-66fd-494b-9962-73684a931f6f' %}
+  <div class="kaching-icon-block" data-block-id="627937dc-66fd-494b-9962-73684a931f6f"></div>
+{% when '3c87c451-e251-4a39-b460-a3a6e977878a' %}
+  <div class="kaching-icon-block" data-block-id="3c87c451-e251-4a39-b460-a3a6e977878a"></div>
+{% endcase %}
+{% schema %}
+  {
+    "name": "Icon block",
+    "settings": [
+      {
+        "type": "select",
+        "id": "feature_block_id",
+        "label": "Icon block",
+        "options": [{"value":"","label":"None"},{"value":"cf729b6f-5ee2-43fa-ba0c-14213b82f683","label":"Cart Page (Copy)"},{"value":"627937dc-66fd-494b-9962-73684a931f6f","label":"Icon block"},{"value":"3c87c451-e251-4a39-b460-a3a6e977878a","label":"Homepage Section"}]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Guarantees & Features Icons",
+        "category": "Image"
+      }
+    ]
+  }
+{% endschema %}
