@@ -3,7 +3,7 @@
   It's recommended to include this file right before closing </head> tag
 {% endcomment %}
 <!-- Start of Judge.me Core -->
-<link rel="dns-prefetch" data-href="https://cdn.judge.me/">
+<link rel="dns-prefetch" href="https://cdn.judge.me/">
 {{ shop.metafields.judgeme.settings }}
 {% for count in (0..5) %}
   {% assign metafield_key = 'html_miracle_' | append: count %}
@@ -13,10 +13,10 @@
 {% endfor %}
 
 
-<script data-cfasync="false" type="text/javascript" async type="lazyload2" data-src="https://cdn.judge.me/shopify_v2.js"></script>
-<link rel="stylesheet" type="text/css" media="nope!" data-href="https://cdn.judge.me/shopify_v2.css"
+<script data-cfasync="false" type="text/javascript" async src="https://cdn.judge.me/shopify_v2.js"></script>
+<link rel="stylesheet" type="text/css" media="nope!" href="https://cdn.judge.me/shopify_v2.css"
       onload="this.media='all',function(){var d=document,e=d.createEvent('Event');e.initEvent('jdgm.doneLoadingCss',!0,!0),d.dispatchEvent(e)}();">
 
-<noscript><link rel="stylesheet" type="text/css" media="all" data-href="https://cdn.judge.me/shopify_v2.css"></noscript>
+<noscript><link rel="stylesheet" type="text/css" media="all" href="https://cdn.judge.me/shopify_v2.css"></noscript>
 <!-- End of Judge.me Core -->
 
