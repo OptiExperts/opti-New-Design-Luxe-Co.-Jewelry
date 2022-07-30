@@ -226,7 +226,7 @@
 
 
 
-  <script src="{{ 'vendor-scripts-v11.js' | asset_url | split: '?' | first }}" defer="defer"></script>
+  <script type="lazyload2" data-src="{{ 'vendor-scripts-v11.js' | asset_url | split: '?' | first }}" defer="defer"></script>
 
   {%- if shop.enabled_currencies.size > 1 -%}
     <link rel="stylesheet" data-href="{{ 'country-flags.css' | asset_url | split: '?' | first }}">
