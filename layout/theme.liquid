@@ -102,6 +102,12 @@
 
   {%- render 'social-meta-tags' -%}
 
+
+  <link rel="preload" href="https://fonts.gstatic.com/s/tenorsans/v17/bx6ANxqUneKx06UkIXISn3V4Ck-L2qM.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="https://fonts.gstatic.com/s/tenorsans/v17/bx6ANxqUneKx06UkIXISn3V4Ck-L2qM.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="https://fonts.gstatic.com/s/tenorsans/v17/bx6ANxqUneKx06UkIXISn3V4Ck-L2qM.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="https://fonts.shopifycdn.com/futura/futura_n6.bbe2e25d5b96d13ff36b242171a3d07cf5a60170.woff2?h1=bHV4ZWFuZGNvamV3ZWxyeS5vcmc&hmac=c3c599809c46cd62b0cd61db62ddee9ea65a74fd47ffc2a0165b96a60287668f" as="font" type="font/woff2" crossorigin> 
+
   {%- render 'font-face' -%}
   {{ 'theme.css' | asset_url | stylesheet_tag: preload: true }}
   {%- render 'css-variables' -%}
