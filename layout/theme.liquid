@@ -119,7 +119,18 @@
   <link rel="preload" href="https://fonts.shopifycdn.com/futura/futura_n6.bbe2e25d5b96d13ff36b242171a3d07cf5a60170.woff2?h1=bHV4ZWFuZGNvamV3ZWxyeS5vcmc&hmac=c3c599809c46cd62b0cd61db62ddee9ea65a74fd47ffc2a0165b96a60287668f" as="font" type="font/woff2" crossorigin> 
 
   {%- render 'font-face' -%}
-  {{ 'theme.css' | asset_url | stylesheet_tag: preload: true }}
+
+  {% if template contains 'index' %}
+  {%- render '__home-css' -%}
+  {% elsif template contains 'product' %}
+  {%- render '__product-css' -%}
+  {% elsif template contains 'collection' %}
+  {%- render '__collection-css' -%}
+  {% else %}
+  {{ 'theme.css' | asset_url | stylesheet_tag }}
+  {% endif %}
+
+  <link rel="stylesheet" data-href="{{ 'theme.css' | asset_url | stylesheet_tag }}">
   {%- render 'css-variables' -%}
 
   <script>
