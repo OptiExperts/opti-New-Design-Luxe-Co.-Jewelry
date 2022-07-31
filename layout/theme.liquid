@@ -130,7 +130,7 @@
   {{ 'theme.css' | asset_url | stylesheet_tag }}
   {% endif %}
 
-  <link rel="stylesheet" data-href="{{ 'theme.css' | asset_url | stylesheet_tag }}">
+  <link rel="stylesheet" data-href="{{ 'theme.css' | asset_url }}">
   {%- render 'css-variables' -%}
 
   <script>
