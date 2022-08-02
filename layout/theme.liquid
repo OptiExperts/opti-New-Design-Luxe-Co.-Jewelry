@@ -301,8 +301,9 @@
   -%}
 {% if content_for_header contains 'session-recording-now.herokuapp.com' %}{% render 'screen-recording-now' %}{% endif %}{% render 'banana-stand-footer' %}
   {% render 'judgeme_core' %} 
-
+{% comment %}
 {% include 'ets_fs_layoutdata' %}
+{% endcomment %}
 {% render 'spurit_occ2_theme_snippet' %}
 <script type="lazyload2" data-src='{{ 'zify-sizechart.js' | asset_url }}' defer='defer'></script>
 {% include '__footerhash' %}
