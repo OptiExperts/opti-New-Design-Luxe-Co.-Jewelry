@@ -262,12 +262,12 @@
   {%- endif -%}
 {% render 'edt_p' %} 
 {% capture boostersnippet %}
-  {% include "booster-apps-common" %}
-  {% endcapture %}
-  {% unless boostersnippet contains "Liquid error" %}
-    {{ boostersnippet }}
-    {% endunless %}
-    {% comment %}
+{% include "booster-apps-common" %}
+{% endcapture %}
+{% unless boostersnippet contains "Liquid error" %}
+  {{ boostersnippet }}
+  {% endunless %}
+  {% comment %}
 {% include 'ets_fs_assets' %} 
 {% endcomment %}
 <script type="lazyload2" data-src="https://protector-home.dakasapps.com/js/protector-home.js?shop=luxe-store-jewelry.myshopify.com"></script><link rel="stylesheet" data-href="{{ 'zify-sizechart.css' | asset_url }}">
