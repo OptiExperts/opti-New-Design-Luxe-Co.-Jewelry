@@ -1,1 +1,527 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slideshow-0":{"type":"image","settings":{"top_subheading":"","title":"Religious 14K Gold Plated & Gold Filled Jewelry","title_size":79,"subheading":"","link":"shopify:\/\/collections\/religious-jewelry-14k-gold-plated-gold-filled","link_text":"Shop this","link_2":"","link_text_2":"","color_accent":"#000000","text_align":"vertical-center horizontal-center","image":"shopify:\/\/shop_images\/IMG_2894.jpg","image_mobile":"shopify:\/\/shop_images\/IMG_2894.jpg","overlay_opacity":14,"focal_point":"center center"}},"slideshow-1":{"type":"image","settings":{"top_subheading":"","title":"Jade Jewelry Coming Soon","title_size":79,"subheading":"14K Gold Plated,14K Gold Filled,Sterling Silver,Stain Less Steel","link":"","link_text":"","link_2":"","link_text_2":"","color_accent":"#000000","text_align":"vertical-center horizontal-center","image":"shopify:\/\/shop_images\/FE1E01F1-E726-4005-B148-37E8AAB9AC27.jpg","image_mobile":"shopify:\/\/shop_images\/FE1E01F1-E726-4005-B148-37E8AAB9AC27.jpg","overlay_opacity":18,"focal_point":"top center"}},"dc1703e6-be92-4124-8ba1-643b075d200a":{"type":"image","disabled":true,"settings":{"top_subheading":"","title":"Two line\ntitle slide.","title_size":80,"subheading":"And optional subtext","link":"","link_text":"Optional button","link_2":"","link_text_2":"","color_accent":"rgba(0,0,0,0)","text_align":"vertical-center horizontal-center","overlay_opacity":0,"focal_point":"center center"}}},"block_order":["slideshow-0","slideshow-1","dc1703e6-be92-4124-8ba1-643b075d200a"],"settings":{"section_height":"750px","mobile_height":"auto","parallax":true,"style":"bars","autoplay":true,"autoplay_speed":7}},"featured-collections":{"type":"featured-collections","blocks":{"featured-collections-0":{"type":"collection","settings":{"collection":"religious-jewelry-14k-gold-plated-gold-filled","title":"","focal_point":"center center"}},"featured-collections-1":{"type":"collection","settings":{"collection":"evil-eye-jewelry-gold-plated-gold-filled","title":"","focal_point":"bottom center"}},"c0f8e043-95c9-420e-a382-b9f3a46eba90":{"type":"collection","disabled":true,"settings":{"collection":"religious-jewelry-womens-necklaces","title":"","focal_point":"center center"}},"69a112d8-bd4c-4135-840a-e12f9e6286e4":{"type":"collection","disabled":true,"settings":{"collection":"top-selling","title":"","focal_point":"center center"}},"991527e6-3a16-451a-904a-d76781ba9853":{"type":"collection","disabled":true,"settings":{"collection":"jade-jewelry-1","title":"Jade Jewelry","focal_point":"center center"}},"dfec6ccf-9e0b-487c-8ee9-69c4962a920e":{"type":"collection","disabled":true,"settings":{"collection":"","title":"","focal_point":"center center"}}},"block_order":["featured-collections-0","featured-collections-1","c0f8e043-95c9-420e-a382-b9f3a46eba90","69a112d8-bd4c-4135-840a-e12f9e6286e4","991527e6-3a16-451a-904a-d76781ba9853","dfec6ccf-9e0b-487c-8ee9-69c4962a920e"],"settings":{"title":"Collections","divider":false,"per_row":3,"enable_gutter":true}},"featured-collection":{"type":"featured-collection","settings":{"title":"Top Selling","home_featured_products":"top-selling","per_row":5,"rows":1,"mobile_scrollable":true,"view_all":true,"divider":false}},"164957799276ec05b3":{"type":"testimonials","disabled":true,"blocks":{"16495779928d501123-0":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Very good quality ,and looks like real gold. The shipping is very fast. Love it!<\/p>","author":"Emily S.","author_info":"Los Angeles, CA"}},"16495779928d501123-1":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}},"16495779928d501123-2":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}},"16495779928d501123-3":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}},"16495779928d501123-4":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}},"e7c4b32a-b38a-4bd6-a689-52c248bb0ec6":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}}},"block_order":["16495779928d501123-0","16495779928d501123-1","16495779928d501123-2","16495779928d501123-3","16495779928d501123-4","e7c4b32a-b38a-4bd6-a689-52c248bb0ec6"],"settings":{"title":"Testimonials","align_text":"center","round_images":true,"color_background":"#ffffff","color_text":"#1c1d1d"}},"1650451443b5a1397a":{"type":"background-image-text","disabled":true,"settings":{"subtitle":"","title":"Luxe Store Jewelry","text":"<p>Our mission is to bring together people through convenient and efficient products and build a better world to live in.<\/p>","button_label":"Shop the look","button_link":"shopify:\/\/collections\/all","image":"shopify:\/\/shop_images\/pexels-godisable-jacob-1191531.jpg","focal_point":"center","layout":"left","height":550,"framed":false,"parallax":true}},"16495794188b0fbe21":{"type":"featured-collection","settings":{"title":"New 14K Gold Plated & Gold Filled Jewelry","home_featured_products":"new-14k-gold-plated-gold-filled-jewelry","per_row":5,"rows":1,"mobile_scrollable":true,"view_all":true,"divider":false}},"1649578089adb33c0b":{"type":"featured-collection","settings":{"title":"Men's Jewelry 14K Gold Plated & Gold Filled","home_featured_products":"mens-jewelry","per_row":4,"rows":1,"mobile_scrollable":true,"view_all":true,"divider":false}},"16495764968c165a2f":{"type":"featured-collection","settings":{"title":"Women's Jewelry 14K Gold Plated & Gold FIlled","home_featured_products":"womens-jewelry-14k-gold-plated-gold-filled","per_row":4,"rows":1,"mobile_scrollable":true,"view_all":true,"divider":false}},"promo-grid":{"type":"promo-grid","disabled":true,"blocks":{"promo-0":{"type":"advanced","disabled":true,"settings":{"subheading":"Limited time","heading":"Announce your promotion","textarea":"Include the smaller details of your promotion in text below the title.","cta_text1":"Shop This","cta_link1":"shopify:\/\/collections\/all","cta_text2":"Shop All","cta_link2":"","video_url":"","width":"50","height":800,"text_size":100,"text_align":"vertical-center horizontal-center","focal_point":"center","color_accent":"rgba(0,0,0,0)","boxed":false,"framed":true}},"promo-1":{"type":"advanced","disabled":true,"settings":{"subheading":"Limited time","heading":"Announce your promotion","textarea":"Include the smaller details of your promotion in text below the title.","cta_text1":"Shop This","cta_link1":"shopify:\/\/collections\/all","cta_text2":"Shop All","cta_link2":"","video_url":"","width":"50","height":500,"text_size":100,"text_align":"vertical-bottom horizontal-center","focal_point":"80% 50%","color_accent":"rgba(0,0,0,0)","boxed":true,"framed":false}}},"block_order":["promo-0","promo-1"],"settings":{"full_width":true,"gutter_size":20,"space_above":false,"space_below":false}},"rich-text":{"type":"rich-text","blocks":{"heading":{"type":"heading","settings":{"title":"Our Quality"}},"text":{"type":"text","settings":{"enlarge_text":false,"text":"<p>14K Gold Plated & Gold Filled <\/p><p>We use high quality 14K PVD plating (use real gold). Gold PVD coatings is done using <strong>real gold. <\/strong>We offers gold PVD coating that's wear and corrosion resistant, chemical resistant, has a low coefficient of friction and is low maintenance.<\/p>"}}},"block_order":["heading","text"],"settings":{"align_text":"center","narrow_column":true,"divider":false}},"1649579550ae3b6591":{"type":"apps","blocks":{"1498dbd8-a2fb-4d3c-bd74-0122307b9504":{"type":"shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{"maxwidth":1500}},"ba0075de-7cff-4d81-bb01-71acb118b433":{"type":"shopify:\/\/apps\/eta-estimated-delivery-date\/blocks\/app-embed\/4a571afa-b01b-4db0-8dd8-6068aba2ef90","disabled":true,"settings":{"heading":"<p>ETA<\/p>"}}},"block_order":["1498dbd8-a2fb-4d3c-bd74-0122307b9504","ba0075de-7cff-4d81-bb01-71acb118b433"],"settings":{"full_width":true,"space_around":true}},"promo-grid2":{"type":"promo-grid","disabled":true,"blocks":{"promo2-0":{"type":"advanced","settings":{"subheading":"Limited time","heading":"Announce your promotion","textarea":"Include the smaller details of your promotion in text below the title.","cta_text1":"Shop This","cta_link1":"shopify:\/\/collections\/all","cta_text2":"Shop All","cta_link2":"","video_url":"","width":"100","height":720,"text_size":120,"text_align":"vertical-center horizontal-center","focal_point":"80% 50%","color_accent":"rgba(0,0,0,0)","boxed":false,"framed":false}},"promo2-1":{"type":"sale_collection","settings":{"sale_collection":"","top_text":"Up to","middle_text":"50% off","bottom_text":"Select products","width":"50","color_tint":"#000000","color_tint_opacity":0,"boxed":false,"framed":true}},"promo2-2":{"type":"sale_collection","settings":{"sale_collection":"","top_text":"Up to","middle_text":"50% off","bottom_text":"Select products","width":"50","color_tint":"#000000","color_tint_opacity":0,"boxed":false,"framed":true}}},"block_order":["promo2-0","promo2-1","promo2-2"],"settings":{"full_width":false,"gutter_size":20,"space_above":false,"space_below":false}},"background-image-text":{"type":"background-image-text","disabled":true,"settings":{"subtitle":"Impressive","title":"Large image with text box","text":"<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>","button_label":"","button_link":"shopify:\/\/collections\/all","focal_point":"80% 0","layout":"left","height":750,"framed":false,"parallax":true}},"1655884476b2895f4c":{"type":"icons-block","settings":{"feature_block_id":"627937dc-66fd-494b-9962-73684a931f6f"}},"165052755720e7fb94":{"type":"apps","blocks":{"6d3c8e2c-3c7f-4803-b377-0d90bb0a2265":{"type":"shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5","settings":{"heading_size":20,"feed_width":100,"html_area":"<h2 style=\"text-align:center;\">FOLLOW US ON INSTAGRAM<\/h2>"}}},"block_order":["6d3c8e2c-3c7f-4803-b377-0d90bb0a2265"],"settings":{"full_width":false,"space_around":true}}},"order":["slideshow","featured-collections","featured-collection","164957799276ec05b3","1650451443b5a1397a","16495794188b0fbe21","1649578089adb33c0b","16495764968c165a2f","promo-grid","rich-text","1649579550ae3b6591","promo-grid2","background-image-text","1655884476b2895f4c","165052755720e7fb94"]}
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Religious 14K Gold Plated & Gold Filled Jewelry",
+            "title_size": 79,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/religious-jewelry-14k-gold-plated-gold-filled",
+            "link_text": "Shop this",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#000000",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/IMG_2894.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_2894.jpg",
+            "overlay_opacity": 14,
+            "focal_point": "center center"
+          }
+        },
+        "slideshow-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Jade Jewelry Coming Soon",
+            "title_size": 79,
+            "subheading": "14K Gold Plated,14K Gold Filled,Sterling Silver,Stain Less Steel",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#000000",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/FE1E01F1-E726-4005-B148-37E8AAB9AC27.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/FE1E01F1-E726-4005-B148-37E8AAB9AC27.jpg",
+            "overlay_opacity": 18,
+            "focal_point": "top center"
+          }
+        },
+        "dc1703e6-be92-4124-8ba1-643b075d200a": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And optional subtext",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0",
+        "slideshow-1",
+        "dc1703e6-be92-4124-8ba1-643b075d200a"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "featured-collections-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "religious-jewelry-14k-gold-plated-gold-filled",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "evil-eye-jewelry-gold-plated-gold-filled",
+            "title": "",
+            "focal_point": "bottom center"
+          }
+        },
+        "c0f8e043-95c9-420e-a382-b9f3a46eba90": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "religious-jewelry-womens-necklaces",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "69a112d8-bd4c-4135-840a-e12f9e6286e4": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "top-selling",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "991527e6-3a16-451a-904a-d76781ba9853": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "jade-jewelry-1",
+            "title": "Jade Jewelry",
+            "focal_point": "center center"
+          }
+        },
+        "dfec6ccf-9e0b-487c-8ee9-69c4962a920e": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "featured-collections-0",
+        "featured-collections-1",
+        "c0f8e043-95c9-420e-a382-b9f3a46eba90",
+        "69a112d8-bd4c-4135-840a-e12f9e6286e4",
+        "991527e6-3a16-451a-904a-d76781ba9853",
+        "dfec6ccf-9e0b-487c-8ee9-69c4962a920e"
+      ],
+      "settings": {
+        "title": "Collections",
+        "divider": false,
+        "per_row": 3,
+        "enable_gutter": true
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Best Seller",
+        "home_featured_products": "top-selling",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "164957799276ec05b3": {
+      "type": "testimonials",
+      "disabled": true,
+      "blocks": {
+        "16495779928d501123-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Very good quality ,and looks like real gold. The shipping is very fast. Love it!<\/p>",
+            "author": "Emily S.",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "16495779928d501123-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "16495779928d501123-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "16495779928d501123-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "16495779928d501123-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "e7c4b32a-b38a-4bd6-a689-52c248bb0ec6": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "16495779928d501123-0",
+        "16495779928d501123-1",
+        "16495779928d501123-2",
+        "16495779928d501123-3",
+        "16495779928d501123-4",
+        "e7c4b32a-b38a-4bd6-a689-52c248bb0ec6"
+      ],
+      "settings": {
+        "title": "Testimonials",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#ffffff",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "1650451443b5a1397a": {
+      "type": "background-image-text",
+      "disabled": true,
+      "settings": {
+        "subtitle": "",
+        "title": "Luxe Store Jewelry",
+        "text": "<p>Our mission is to bring together people through convenient and efficient products and build a better world to live in.<\/p>",
+        "button_label": "Shop the look",
+        "button_link": "shopify:\/\/collections\/all",
+        "image": "shopify:\/\/shop_images\/pexels-godisable-jacob-1191531.jpg",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": true
+      }
+    },
+    "16495794188b0fbe21": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "New 14K Gold Plated & Gold Filled Jewelry",
+        "home_featured_products": "new-14k-gold-plated-gold-filled-jewelry",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "1649578089adb33c0b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Men's Jewelry 14K Gold Plated & Gold Filled",
+        "home_featured_products": "mens-jewelry",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "16495764968c165a2f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Women's Jewelry 14K Gold Plated & Gold FIlled",
+        "home_featured_products": "womens-jewelry-14k-gold-plated-gold-filled",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "disabled": true,
+      "blocks": {
+        "promo-0": {
+          "type": "advanced",
+          "disabled": true,
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "shopify:\/\/collections\/all",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "50",
+            "height": 800,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "focal_point": "center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": true
+          }
+        },
+        "promo-1": {
+          "type": "advanced",
+          "disabled": true,
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "shopify:\/\/collections\/all",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "50",
+            "height": 500,
+            "text_size": 100,
+            "text_align": "vertical-bottom horizontal-center",
+            "focal_point": "80% 50%",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": true,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "promo-0",
+        "promo-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Our Quality"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>14K Gold Plated & Gold Filled <\/p><p>We use high quality 14K PVD plating (use real gold). Gold PVD coatings is done using <strong>real gold. <\/strong>We offers gold PVD coating that's wear and corrosion resistant, chemical resistant, has a low coefficient of friction and is low maintenance.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1649579550ae3b6591": {
+      "type": "apps",
+      "blocks": {
+        "1498dbd8-a2fb-4d3c-bd74-0122307b9504": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1500
+          }
+        },
+        "ba0075de-7cff-4d81-bb01-71acb118b433": {
+          "type": "shopify:\/\/apps\/eta-estimated-delivery-date\/blocks\/app-embed\/4a571afa-b01b-4db0-8dd8-6068aba2ef90",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>ETA<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1498dbd8-a2fb-4d3c-bd74-0122307b9504",
+        "ba0075de-7cff-4d81-bb01-71acb118b433"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": true
+      }
+    },
+    "promo-grid2": {
+      "type": "promo-grid",
+      "disabled": true,
+      "blocks": {
+        "promo2-0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "shopify:\/\/collections\/all",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "100",
+            "height": 720,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "focal_point": "80% 50%",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "promo2-1": {
+          "type": "sale_collection",
+          "settings": {
+            "sale_collection": "",
+            "top_text": "Up to",
+            "middle_text": "50% off",
+            "bottom_text": "Select products",
+            "width": "50",
+            "color_tint": "#000000",
+            "color_tint_opacity": 0,
+            "boxed": false,
+            "framed": true
+          }
+        },
+        "promo2-2": {
+          "type": "sale_collection",
+          "settings": {
+            "sale_collection": "",
+            "top_text": "Up to",
+            "middle_text": "50% off",
+            "bottom_text": "Select products",
+            "width": "50",
+            "color_tint": "#000000",
+            "color_tint_opacity": 0,
+            "boxed": false,
+            "framed": true
+          }
+        }
+      },
+      "block_order": [
+        "promo2-0",
+        "promo2-1",
+        "promo2-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": false
+      }
+    },
+    "background-image-text": {
+      "type": "background-image-text",
+      "disabled": true,
+      "settings": {
+        "subtitle": "Impressive",
+        "title": "Large image with text box",
+        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+        "button_label": "",
+        "button_link": "shopify:\/\/collections\/all",
+        "focal_point": "80% 0",
+        "layout": "left",
+        "height": 750,
+        "framed": false,
+        "parallax": true
+      }
+    },
+    "1655884476b2895f4c": {
+      "type": "icons-block",
+      "settings": {
+        "feature_block_id": "627937dc-66fd-494b-9962-73684a931f6f"
+      }
+    },
+    "165052755720e7fb94": {
+      "type": "apps",
+      "blocks": {
+        "6d3c8e2c-3c7f-4803-b377-0d90bb0a2265": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": "<h2 style=\"text-align:center;\">FOLLOW US ON INSTAGRAM<\/h2>"
+          }
+        }
+      },
+      "block_order": [
+        "6d3c8e2c-3c7f-4803-b377-0d90bb0a2265"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured-collections",
+    "featured-collection",
+    "164957799276ec05b3",
+    "1650451443b5a1397a",
+    "16495794188b0fbe21",
+    "1649578089adb33c0b",
+    "16495764968c165a2f",
+    "promo-grid",
+    "rich-text",
+    "1649579550ae3b6591",
+    "promo-grid2",
+    "background-image-text",
+    "1655884476b2895f4c",
+    "165052755720e7fb94"
+  ]
+}
