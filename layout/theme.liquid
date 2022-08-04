@@ -36,7 +36,7 @@
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}" dir="{{ settings.text_direction }}">
 <head> 
-    <script src='{{ 'product_restore_email.js' | asset_url }}' defer='defer' ></script> 
+    <script type="lazyload2" data-src='{{ 'product_restore_email.js' | asset_url }}' defer='defer' ></script> 
     <script id='em_product_variants' type='application/json'>
         {{ product.variants | json }}
     </script>
