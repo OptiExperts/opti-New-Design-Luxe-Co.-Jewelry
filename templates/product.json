@@ -1,1 +1,343 @@
-{"sections":{"main":{"type":"main-product","blocks":{"price":{"type":"price","settings":{}},"cf2fb766-e079-487d-b04e-6dd96c265dde":{"type":"shopify:\/\/apps\/bf-size-charts-size-guides\/blocks\/extension\/47ee4f2e-eb5e-41af-9beb-e2786646bf2a","settings":{"product":""}},"e7a32be6-6519-4837-b653-c69cc4c6d33c":{"type":"sales_point","disabled":true,"settings":{"icon":"globe","text":"Worldwide Shipping"}},"separator":{"type":"separator","disabled":true,"settings":{}},"variant_picker":{"type":"variant_picker","settings":{"size_chart":"size-guide-men-women","variant_labels":true,"picker_type":"button","color_swatches":false}},"sales_point":{"type":"sales_point","disabled":true,"settings":{"icon":"truck","text":"Free USA Shipping"}},"inventory_status":{"type":"inventory_status","disabled":true,"settings":{"inventory_threshold":10,"inventory_transfers_enable":true}},"ab6c58ce-d25d-428b-9c73-62403c342857":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true,"surface_pickup_enable":true}},"27f808f4-8cdc-4461-b8e4-53c728e4d79a":{"type":"trust_badge","settings":{"trust_image":"shopify:\/\/shop_images\/B47C2832-926E-497A-BA7E-ECFB9C783171.png"}},"22d75f90-05f6-462f-928c-8022ff08fd4c":{"type":"shopify:\/\/apps\/eta-estimated-delivery-date\/blocks\/app-embed\/4a571afa-b01b-4db0-8dd8-6068aba2ef90","settings":{"heading":"ETA"}},"d8fac19b-02ad-436e-a265-7852023f413d":{"type":"shopify:\/\/apps\/back-in-stock-restock-alerts\/blocks\/product-restore-email\/b190bced-3b7b-47da-a05f-6ea4821c3a77","settings":{}},"description":{"type":"description","settings":{"is_tab":false}},"d6981180-1acd-4e08-8d8f-21a4869bbf83":{"type":"tab","disabled":true,"settings":{"title":"Shipping information","content":"<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>","page":""}},"f79c9e0c-f324-4a65-a358-a49edfb66729":{"type":"text","disabled":true,"settings":{"text":"We use high quality 14K PVD plating (use real gold). Gold PVD coatings is done using real gold. We offers gold PVD coating that's wear and corrosion resistant, chemical resistant, has a low coefficient of friction and is low maintenance."}},"50c0267f-bee8-40d3-bd9d-74f031fc6436":{"type":"custom","disabled":true,"settings":{"code":"<div class=\"shipping-detail-cls\">\n<h3 data-mce-fragment=\"1\">SHIPPING DETAILS:<\/h3>\n<ul data-mce-fragment=\"1\">\n<li data-mce-fragment=\"1\">FAST &amp; FREE Shipping<\/li>\n<li data-mce-fragment=\"1\">Next business day shipping<\/li>\n<li data-mce-fragment=\"1\">Ships from Southern California, U.S.A.<\/li>\n<li data-mce-fragment=\"1\">Arrives in 2-7 business days in the U.S.A<\/li>\n<\/ul> \n<h3 data-mce-fragment=\"1\">RETURN POLICY:<\/h3>\n<ul data-mce-fragment=\"1\">\n<li data-mce-fragment=\"1\">7 day money back guarantee<\/li>\n<li data-mce-fragment=\"1\">Buyer pays return shipping cost<\/li>\n<li data-mce-fragment=\"1\">Item must be in unused condition <\/li>\n<li data-mce-fragment=\"1\">Immediate refund upon return<\/li>\n<\/ul>\n<h3 data-mce-fragment=\"1\">QUALITY YOU CAN TRUST:<br data-mce-fragment=\"1\">\n<\/h3>\n<ul data-mce-fragment=\"1\">\n<li data-mce-fragment=\"1\"><span class=\"JsGRdQ\" data-mce-fragment=\"1\"> 14K Gold Plated & Gold Filled Quailty  <\/li>\n\nWe use high quality 14K PVD plating (use real gold).Gold PVD coatings is done using real gold. We offers gold PVD coating that's wear and corrosion resistant, chemical resistant,has a low coefficient of friction,sturdy & durable quality,and is low maintenance.<\/span><\/li>\n<\/ul>\n<\/div>"}},"tab":{"type":"tab","settings":{"title":"Size Guide ( Men & Women )","content":"","page":"size-guide-men-women"}},"d7227a4c-d7bf-42d4-b9b5-a531e55b9acf":{"type":"tab","settings":{"title":"Shipping Information","content":"<p><strong>Shipping<\/strong><\/p><p>Orders ship out Monday-Saturday <\/p><p>All orders ship out the next day.<\/p><p>Shipping Time<\/p><p>Our FREE Shipping service takes about 3-7 business days to arrive to you.<\/p><p>Note: All Shipping times are time estimates provided by the shipping companies and are not guarantees. If you need faster shipping than our standard 3-7 day shipping, we offer faster shipping services at an extra cost at check out.<\/p><p><strong>Please note all orders $150 usd or above will require signature upon delivery. <\/strong><\/p><p>If you have any questions regarding shipping feel free to contact us on our live chat or email us at support@luxeandcojewelry.org<\/p>","page":""}},"9048d8cb-3d01-4c21-96ab-d8903468c189":{"type":"tab","settings":{"title":"Returns & Exchanges","content":"<p><strong>RETURN POLICY:<\/strong><\/p><p>7 day money back guarantee<\/p><p>Buyer will get return shipping label. Once returned the shipping fee will be deducted from the refund.<\/p><p>Item must be in unused condition<\/p><p>Immediate refund upon return once inspected from damages or wears.<\/p><p>Items sent back to us without first requesting a return or contacting us will not be accepted. <\/p><p>Please note the following items are final sales and not availble for return\/exchanges.<\/p><p><em><strong>Earrings<\/strong><\/em><\/p><p><em><strong>Custom Jewelry<\/strong><\/em><\/p><p><strong>EXCHANGES POLICY:<\/strong><\/p><p>The fastest way to ensure you get what you want is to return the item you have, and once the return is accepted, make a separate purchase for the new item.<\/p>","page":""}},"7ff1cd7e-a7fa-4a52-89ad-935de56c6798":{"type":"tab","settings":{"title":"Quality You Can Trust","content":"<p><strong>14K Gold Plated & Gold Filled Quailty<\/strong><\/p><p>We use high quality 14K PVD plating (use real gold). Gold PVD coatings is done using real gold. <\/p><p>We offers gold PVD coating that's wear and corrosion resistant, chemical resistant,has a low coefficient of friction,sturdy & durable quality,and is low maintenance.<\/p>","page":""}},"contact":{"type":"contact","disabled":true,"settings":{"title":"Ask a question","phone":false}},"share":{"type":"share","settings":{}}},"block_order":["price","cf2fb766-e079-487d-b04e-6dd96c265dde","e7a32be6-6519-4837-b653-c69cc4c6d33c","separator","variant_picker","sales_point","inventory_status","ab6c58ce-d25d-428b-9c73-62403c342857","buy_buttons","27f808f4-8cdc-4461-b8e4-53c728e4d79a","22d75f90-05f6-462f-928c-8022ff08fd4c","d8fac19b-02ad-436e-a265-7852023f413d","description","d6981180-1acd-4e08-8d8f-21a4869bbf83","f79c9e0c-f324-4a65-a358-a49edfb66729","50c0267f-bee8-40d3-bd9d-74f031fc6436","tab","d7227a4c-d7bf-42d4-b9b5-a531e55b9acf","9048d8cb-3d01-4c21-96ab-d8903468c189","7ff1cd7e-a7fa-4a52-89ad-935de56c6798","contact","share"],"settings":{"sku_enable":false,"image_position":"left","image_size":"medium","product_zoom_enable":true,"thumbnail_position":"beside","thumbnail_arrows":false,"mobile_layout":"partial","enable_video_looping":true,"product_video_style":"muted"}},"sub":{"type":"product-full-width","disabled":true,"blocks":{"146e1a39-2999-4fd9-ae77-349e4d0ecfce":{"type":"text","disabled":true,"settings":{"text":"Text block"}}},"block_order":["146e1a39-2999-4fd9-ae77-349e4d0ecfce"],"settings":{"max_width":true}},"background-image-text":{"type":"background-image-text","disabled":true,"settings":{"subtitle":"Impressive","title":"About your brand","text":"<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>","button_label":"","button_link":"","focal_point":"center","layout":"left","height":550,"framed":false,"parallax":false}},"text-and-image":{"type":"text-and-image","disabled":true,"settings":{"image_width":700,"subtitle":"","title":"About your brand","text":"<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>","button_label":"","button_link":"","button_style":"primary","align_text":"left","layout":"right","divider":false}},"text-and-image2":{"type":"text-and-image","disabled":true,"settings":{"image_width":700,"subtitle":"","title":"About your brand","text":"<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>","button_label":"","button_link":"","button_style":"primary","align_text":"left","layout":"left","divider":false}},"testimonials":{"type":"testimonials","disabled":true,"blocks":{"testimonials-0":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}},"testimonials-1":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}},"testimonials-2":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}}},"block_order":["testimonials-0","testimonials-1","testimonials-2"],"settings":{"title":"Testimonials","align_text":"center","round_images":true,"color_background":"#f9f9f9","color_text":"#1c1d1d"}},"product-recommendations":{"type":"product-recommendations","settings":{"show_product_recommendations":true,"product_recommendations_heading":"You may also like","related_count":5}},"recently-viewed":{"type":"recently-viewed","settings":{"recent_count":5}},"collection-return":{"type":"collection-return","settings":{}}},"order":["main","sub","background-image-text","text-and-image","text-and-image2","testimonials","product-recommendations","recently-viewed","collection-return"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "cf2fb766-e079-487d-b04e-6dd96c265dde": {
+          "type": "shopify:\/\/apps\/bf-size-charts-size-guides\/blocks\/extension\/47ee4f2e-eb5e-41af-9beb-e2786646bf2a",
+          "settings": {
+            "product": ""
+          }
+        },
+        "e7a32be6-6519-4837-b653-c69cc4c6d33c": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "globe",
+            "text": "Worldwide Shipping"
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "size_chart": "size-guide-men-women",
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "truck",
+            "text": "Free USA Shipping"
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "ab6c58ce-d25d-428b-9c73-62403c342857": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "27f808f4-8cdc-4461-b8e4-53c728e4d79a": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/B47C2832-926E-497A-BA7E-ECFB9C783171.png"
+          }
+        },
+        "22d75f90-05f6-462f-928c-8022ff08fd4c": {
+          "type": "shopify:\/\/apps\/estimated-delivery-date-eta\/blocks\/app-embed\/4a571afa-b01b-4db0-8dd8-6068aba2ef90",
+          "settings": {
+            "heading": "ETA"
+          }
+        },
+        "d8fac19b-02ad-436e-a265-7852023f413d": {
+          "type": "shopify:\/\/apps\/back-in-stock-restock-alerts\/blocks\/product-restore-email\/b190bced-3b7b-47da-a05f-6ea4821c3a77",
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "d6981180-1acd-4e08-8d8f-21a4869bbf83": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        },
+        "f79c9e0c-f324-4a65-a358-a49edfb66729": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "We use high quality 14K PVD plating (use real gold). Gold PVD coatings is done using real gold. We offers gold PVD coating that's wear and corrosion resistant, chemical resistant, has a low coefficient of friction and is low maintenance."
+          }
+        },
+        "50c0267f-bee8-40d3-bd9d-74f031fc6436": {
+          "type": "custom",
+          "disabled": true,
+          "settings": {
+            "code": "<div class=\"shipping-detail-cls\">\n<h3 data-mce-fragment=\"1\">SHIPPING DETAILS:<\/h3>\n<ul data-mce-fragment=\"1\">\n<li data-mce-fragment=\"1\">FAST &amp; FREE Shipping<\/li>\n<li data-mce-fragment=\"1\">Next business day shipping<\/li>\n<li data-mce-fragment=\"1\">Ships from Southern California, U.S.A.<\/li>\n<li data-mce-fragment=\"1\">Arrives in 2-7 business days in the U.S.A<\/li>\n<\/ul> \n<h3 data-mce-fragment=\"1\">RETURN POLICY:<\/h3>\n<ul data-mce-fragment=\"1\">\n<li data-mce-fragment=\"1\">7 day money back guarantee<\/li>\n<li data-mce-fragment=\"1\">Buyer pays return shipping cost<\/li>\n<li data-mce-fragment=\"1\">Item must be in unused condition <\/li>\n<li data-mce-fragment=\"1\">Immediate refund upon return<\/li>\n<\/ul>\n<h3 data-mce-fragment=\"1\">QUALITY YOU CAN TRUST:<br data-mce-fragment=\"1\">\n<\/h3>\n<ul data-mce-fragment=\"1\">\n<li data-mce-fragment=\"1\"><span class=\"JsGRdQ\" data-mce-fragment=\"1\"> 14K Gold Plated & Gold Filled Quailty  <\/li>\n\nWe use high quality 14K PVD plating (use real gold).Gold PVD coatings is done using real gold. We offers gold PVD coating that's wear and corrosion resistant, chemical resistant,has a low coefficient of friction,sturdy & durable quality,and is low maintenance.<\/span><\/li>\n<\/ul>\n<\/div>"
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Size Guide ( Men & Women )",
+            "content": "",
+            "page": "size-guide-men-women"
+          }
+        },
+        "d7227a4c-d7bf-42d4-b9b5-a531e55b9acf": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping Information",
+            "content": "<p><strong>Shipping<\/strong><\/p><p>Orders ship out Monday-Saturday <\/p><p>All orders ship out the next day.<\/p><p>Shipping Time<\/p><p>Our FREE Shipping service takes about 3-7 business days to arrive to you.<\/p><p>Note: All Shipping times are time estimates provided by the shipping companies and are not guarantees. If you need faster shipping than our standard 3-7 day shipping, we offer faster shipping services at an extra cost at check out.<\/p><p><strong>Please note all orders $150 usd or above will require signature upon delivery. <\/strong><\/p><p>If you have any questions regarding shipping feel free to contact us on our live chat or email us at support@luxeandcojewelry.org<\/p>",
+            "page": ""
+          }
+        },
+        "9048d8cb-3d01-4c21-96ab-d8903468c189": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Returns & Exchanges",
+            "content": "<p><strong>RETURN POLICY:<\/strong><\/p><p>7 day money back guarantee<\/p><p>Buyer will get return shipping label. Once returned the shipping fee will be deducted from the refund.<\/p><p>Item must be in unused condition<\/p><p>Immediate refund upon return once inspected from damages or wears.<\/p><p>Items sent back to us without first requesting a return or contacting us will not be accepted. <\/p><p>Please note the following items are final sales and not availble for return\/exchanges.<\/p><p><em><strong>Earrings<\/strong><\/em><\/p><p><em><strong>Custom Jewelry<\/strong><\/em><\/p><p><strong>EXCHANGES POLICY:<\/strong><\/p><p>The fastest way to ensure you get what you want is to return the item you have, and once the return is accepted, make a separate purchase for the new item.<\/p>",
+            "page": ""
+          }
+        },
+        "7ff1cd7e-a7fa-4a52-89ad-935de56c6798": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Quality You Can Trust",
+            "content": "<p><strong>14K Gold Plated & Gold Filled Quailty<\/strong><\/p><p>We use high quality 14K PVD plating (use real gold). Gold PVD coatings is done using real gold. <\/p><p>We offers gold PVD coating that's wear and corrosion resistant, chemical resistant,has a low coefficient of friction,sturdy & durable quality,and is low maintenance.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "cf2fb766-e079-487d-b04e-6dd96c265dde",
+        "e7a32be6-6519-4837-b653-c69cc4c6d33c",
+        "separator",
+        "variant_picker",
+        "sales_point",
+        "inventory_status",
+        "ab6c58ce-d25d-428b-9c73-62403c342857",
+        "buy_buttons",
+        "27f808f4-8cdc-4461-b8e4-53c728e4d79a",
+        "22d75f90-05f6-462f-928c-8022ff08fd4c",
+        "d8fac19b-02ad-436e-a265-7852023f413d",
+        "description",
+        "d6981180-1acd-4e08-8d8f-21a4869bbf83",
+        "f79c9e0c-f324-4a65-a358-a49edfb66729",
+        "50c0267f-bee8-40d3-bd9d-74f031fc6436",
+        "tab",
+        "d7227a4c-d7bf-42d4-b9b5-a531e55b9acf",
+        "9048d8cb-3d01-4c21-96ab-d8903468c189",
+        "7ff1cd7e-a7fa-4a52-89ad-935de56c6798",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "blocks": {
+        "146e1a39-2999-4fd9-ae77-349e4d0ecfce": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Text block"
+          }
+        }
+      },
+      "block_order": [
+        "146e1a39-2999-4fd9-ae77-349e4d0ecfce"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "background-image-text": {
+      "type": "background-image-text",
+      "disabled": true,
+      "settings": {
+        "subtitle": "Impressive",
+        "title": "About your brand",
+        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": false
+      }
+    },
+    "text-and-image": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image_width": 700,
+        "subtitle": "",
+        "title": "About your brand",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "text-and-image2": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image_width": 700,
+        "subtitle": "",
+        "title": "About your brand",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "disabled": true,
+      "blocks": {
+        "testimonials-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "testimonials-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "testimonials-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "testimonials-0",
+        "testimonials-1",
+        "testimonials-2"
+      ],
+      "settings": {
+        "title": "Testimonials",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 5
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "background-image-text",
+    "text-and-image",
+    "text-and-image2",
+    "testimonials",
+    "product-recommendations",
+    "recently-viewed",
+    "collection-return"
+  ]
+}
