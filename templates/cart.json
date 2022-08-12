@@ -1,1 +1,40 @@
-{"sections":{"main":{"type":"main-cart","settings":{}},"1658886791b299a70c":{"type":"icons-block","settings":{"feature_block_id":"cf729b6f-5ee2-43fa-ba0c-14213b82f683"}},"featured-collection":{"type":"featured-collection","settings":{"title":"Top Selling","home_featured_products":"top-selling","per_row":4,"rows":1,"mobile_scrollable":true,"view_all":true,"divider":false}},"recently-viewed":{"type":"recently-viewed","settings":{"recent_count":5}}},"order":["main","1658886791b299a70c","featured-collection","recently-viewed"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-cart",
+      "settings": {
+      }
+    },
+    "1658886791b299a70c": {
+      "type": "icons-block",
+      "disabled": true,
+      "settings": {
+        "feature_block_id": "cf729b6f-5ee2-43fa-ba0c-14213b82f683"
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Top Selling",
+        "home_featured_products": "top-selling",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "recent_count": 5
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1658886791b299a70c",
+    "featured-collection",
+    "recently-viewed"
+  ]
+}
