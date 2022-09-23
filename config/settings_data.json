@@ -287,12 +287,10 @@
         "settings": {
         }
       },
-      "8962992520437913685": {
-        "type": "shopify:\/\/apps\/yotpo-loyalty-rewards\/blocks\/loader-app-embed-block\/2f9660df-5018-4e02-9868-ee1fb88d6ccd",
+      "548869057455184019": {
+        "type": "shopify:\/\/apps\/preorder-bear\/blocks\/widget\/c9ef47a7-e0f7-4d5b-a2e4-8c07318f330b",
         "disabled": false,
         "settings": {
-          "inject_modules_loader": true,
-          "inject_sdk_loader": true
         }
       }
     }
