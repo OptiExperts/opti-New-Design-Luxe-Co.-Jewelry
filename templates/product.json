@@ -8,12 +8,6 @@
           "settings": {
           }
         },
-        "cf2fb766-e079-487d-b04e-6dd96c265dde": {
-          "type": "shopify:\/\/apps\/bf-size-charts-size-guides\/blocks\/extension\/47ee4f2e-eb5e-41af-9beb-e2786646bf2a",
-          "settings": {
-            "product": ""
-          }
-        },
         "e7a32be6-6519-4837-b653-c69cc4c6d33c": {
           "type": "sales_point",
           "disabled": true,
@@ -65,6 +59,13 @@
             "surface_pickup_enable": true
           }
         },
+        "cf2fb766-e079-487d-b04e-6dd96c265dde": {
+          "type": "shopify:\/\/apps\/bf-size-charts-size-guides\/blocks\/extension\/47ee4f2e-eb5e-41af-9beb-e2786646bf2a",
+          "disabled": true,
+          "settings": {
+            "product": ""
+          }
+        },
         "27f808f4-8cdc-4461-b8e4-53c728e4d79a": {
           "type": "trust_badge",
           "settings": {
@@ -86,6 +87,37 @@
           "type": "description",
           "settings": {
             "is_tab": false
+          }
+        },
+        "d7227a4c-d7bf-42d4-b9b5-a531e55b9acf": {
+          "type": "tab",
+          "settings": {
+            "title": "Shipping Information",
+            "content": "<p><strong>Shipping<\/strong><\/p><p>Orders ship out Monday-Saturday <\/p><p>All orders ship out the next day.<\/p><p>Shipping Time<\/p><p>Our FREE Shipping service takes about 3-7 business days to arrive to you.<\/p><p>Note: All Shipping times are time estimates provided by the shipping companies and are not guarantees. If you need faster shipping than our standard 3-7 day shipping, we offer faster shipping services at an extra cost at check out.<\/p><p><strong>Please note all orders $150 usd or above will require signature upon delivery. <\/strong><\/p><p>If you have any questions regarding shipping feel free to contact us on our live chat or email us at support@luxeandcojewelry.org<\/p>",
+            "page": ""
+          }
+        },
+        "9048d8cb-3d01-4c21-96ab-d8903468c189": {
+          "type": "tab",
+          "settings": {
+            "title": "Returns & Exchanges",
+            "content": "<p><strong>RETURN POLICY:<\/strong><\/p><p>7 day money back guarantee<\/p><p>Buyer will get return shipping label. Once returned the shipping fee will be deducted from the refund.<\/p><p>Item must be in unused condition<\/p><p>Immediate refund upon return once inspected from damages or wears.<\/p><p>Items sent back to us without first requesting a return or contacting us will not be accepted. <\/p><p>Please note the following items are final sales and not availble for return\/exchanges.<\/p><p><em><strong>Earrings<\/strong><\/em><\/p><p><em><strong>Custom Jewelry<\/strong><\/em><\/p><p><strong>EXCHANGES POLICY:<\/strong><\/p><p>The fastest way to ensure you get what you want is to return the item you have, and once the return is accepted, make a separate purchase for the new item.<\/p>",
+            "page": ""
+          }
+        },
+        "7ff1cd7e-a7fa-4a52-89ad-935de56c6798": {
+          "type": "tab",
+          "settings": {
+            "title": "Quality You Can Trust",
+            "content": "<p><strong>14K Gold Plated & Gold Filled Quailty<\/strong><\/p><p>We use high quality 14K PVD plating (use real gold). Gold PVD coatings is done using real gold. <\/p><p>We offers gold PVD coating that's wear and corrosion resistant, chemical resistant,has a low coefficient of friction,sturdy & durable quality,and is low maintenance.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
           }
         },
         "d6981180-1acd-4e08-8d8f-21a4869bbf83": {
@@ -120,41 +152,6 @@
             "page": "size-guide-men-women"
           }
         },
-        "d7227a4c-d7bf-42d4-b9b5-a531e55b9acf": {
-          "type": "tab",
-          "disabled": true,
-          "settings": {
-            "title": "Shipping Information",
-            "content": "<p><strong>Shipping<\/strong><\/p><p>Orders ship out Monday-Saturday <\/p><p>All orders ship out the next day.<\/p><p>Shipping Time<\/p><p>Our FREE Shipping service takes about 3-7 business days to arrive to you.<\/p><p>Note: All Shipping times are time estimates provided by the shipping companies and are not guarantees. If you need faster shipping than our standard 3-7 day shipping, we offer faster shipping services at an extra cost at check out.<\/p><p><strong>Please note all orders $150 usd or above will require signature upon delivery. <\/strong><\/p><p>If you have any questions regarding shipping feel free to contact us on our live chat or email us at support@luxeandcojewelry.org<\/p>",
-            "page": ""
-          }
-        },
-        "9048d8cb-3d01-4c21-96ab-d8903468c189": {
-          "type": "tab",
-          "disabled": true,
-          "settings": {
-            "title": "Returns & Exchanges",
-            "content": "<p><strong>RETURN POLICY:<\/strong><\/p><p>7 day money back guarantee<\/p><p>Buyer will get return shipping label. Once returned the shipping fee will be deducted from the refund.<\/p><p>Item must be in unused condition<\/p><p>Immediate refund upon return once inspected from damages or wears.<\/p><p>Items sent back to us without first requesting a return or contacting us will not be accepted. <\/p><p>Please note the following items are final sales and not availble for return\/exchanges.<\/p><p><em><strong>Earrings<\/strong><\/em><\/p><p><em><strong>Custom Jewelry<\/strong><\/em><\/p><p><strong>EXCHANGES POLICY:<\/strong><\/p><p>The fastest way to ensure you get what you want is to return the item you have, and once the return is accepted, make a separate purchase for the new item.<\/p>",
-            "page": ""
-          }
-        },
-        "7ff1cd7e-a7fa-4a52-89ad-935de56c6798": {
-          "type": "tab",
-          "disabled": true,
-          "settings": {
-            "title": "Quality You Can Trust",
-            "content": "<p><strong>14K Gold Plated & Gold Filled Quailty<\/strong><\/p><p>We use high quality 14K PVD plating (use real gold). Gold PVD coatings is done using real gold. <\/p><p>We offers gold PVD coating that's wear and corrosion resistant, chemical resistant,has a low coefficient of friction,sturdy & durable quality,and is low maintenance.<\/p>",
-            "page": ""
-          }
-        },
-        "contact": {
-          "type": "contact",
-          "disabled": true,
-          "settings": {
-            "title": "Ask a question",
-            "phone": false
-          }
-        },
         "share": {
           "type": "share",
           "settings": {
@@ -163,7 +160,6 @@
       },
       "block_order": [
         "price",
-        "cf2fb766-e079-487d-b04e-6dd96c265dde",
         "e7a32be6-6519-4837-b653-c69cc4c6d33c",
         "separator",
         "variant_picker",
@@ -171,18 +167,19 @@
         "inventory_status",
         "ab6c58ce-d25d-428b-9c73-62403c342857",
         "buy_buttons",
+        "cf2fb766-e079-487d-b04e-6dd96c265dde",
         "27f808f4-8cdc-4461-b8e4-53c728e4d79a",
         "22d75f90-05f6-462f-928c-8022ff08fd4c",
         "d8fac19b-02ad-436e-a265-7852023f413d",
         "description",
-        "d6981180-1acd-4e08-8d8f-21a4869bbf83",
-        "f79c9e0c-f324-4a65-a358-a49edfb66729",
-        "50c0267f-bee8-40d3-bd9d-74f031fc6436",
-        "tab",
         "d7227a4c-d7bf-42d4-b9b5-a531e55b9acf",
         "9048d8cb-3d01-4c21-96ab-d8903468c189",
         "7ff1cd7e-a7fa-4a52-89ad-935de56c6798",
         "contact",
+        "d6981180-1acd-4e08-8d8f-21a4869bbf83",
+        "f79c9e0c-f324-4a65-a358-a49edfb66729",
+        "50c0267f-bee8-40d3-bd9d-74f031fc6436",
+        "tab",
         "share"
       ],
       "settings": {
