@@ -1,1 +1,104 @@
-{"sections":{"1655884680cc9a832b":{"type":"icons-block","settings":{"feature_block_id":"cf729b6f-5ee2-43fa-ba0c-14213b82f683"}},"main":{"type":"list-collections-template","settings":{"title_enable":true,"display_type":"all","sort":"products_high","grid":"4"}},"logo-list":{"type":"logo-list","disabled":true,"blocks":{"logo1":{"type":"logo_image","settings":{"link":""}},"logo2":{"type":"logo_image","settings":{"link":""}},"logo3":{"type":"logo_image","settings":{"link":""}},"logo4":{"type":"logo_image","settings":{"link":""}},"logo5":{"type":"logo_image","settings":{"link":""}},"logo6":{"type":"logo_image","settings":{"link":""}}},"block_order":["logo1","logo2","logo3","logo4","logo5","logo6"],"settings":{"title":"Our brands","logo_opacity":76,"divider":false}}},"order":["1655884680cc9a832b","main","logo-list"]}
+{
+  "sections": {
+    "main": {
+      "type": "list-collections-template",
+      "blocks": {
+        "6b5cdcf9-1ac2-458a-9a16-8e326dc61b2c": {
+          "type": "collection",
+          "settings": {
+            "collection": "religious-jewelry-14k-gold-plated-gold-filled"
+          }
+        },
+        "59e8212c-79f8-4d93-b940-eba6ec256647": {
+          "type": "collection",
+          "settings": {
+            "collection": "jade-jewelry-1"
+          }
+        },
+        "1fec9e97-96f0-4844-98af-eab34406b711": {
+          "type": "collection",
+          "settings": {
+            "collection": "evil-eye-jewelry-gold-plated-gold-filled"
+          }
+        }
+      },
+      "block_order": [
+        "6b5cdcf9-1ac2-458a-9a16-8e326dc61b2c",
+        "59e8212c-79f8-4d93-b940-eba6ec256647",
+        "1fec9e97-96f0-4844-98af-eab34406b711"
+      ],
+      "settings": {
+        "title_enable": true,
+        "display_type": "selected",
+        "sort": "products_high",
+        "grid": "4"
+      }
+    },
+    "1655884680cc9a832b": {
+      "type": "icons-block",
+      "settings": {
+        "feature_block_id": "cf729b6f-5ee2-43fa-ba0c-14213b82f683"
+      }
+    },
+    "logo-list": {
+      "type": "logo-list",
+      "disabled": true,
+      "blocks": {
+        "logo1": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo2": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo4": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo5": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo6": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo1",
+        "logo2",
+        "logo3",
+        "logo4",
+        "logo5",
+        "logo6"
+      ],
+      "settings": {
+        "title": "Our brands",
+        "logo_opacity": 76,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1655884680cc9a832b",
+    "logo-list"
+  ]
+}
