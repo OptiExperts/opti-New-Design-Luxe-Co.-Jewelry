@@ -1,1 +1,184 @@
-{"sections":{"collection-header":{"type":"collection-header","disabled":true,"settings":{"enable":true,"collection_image_enable":true,"parallax":true}},"promo-grid":{"type":"promo-grid","blocks":{"advanced":{"type":"advanced","disabled":true,"settings":{"subheading":"","heading":"","textarea":"","cta_text1":"Shop This","cta_link1":"","cta_text2":"Shop All","cta_link2":"","image":"shopify:\/\/shop_images\/C2DA081B-0D43-433A-8923-9E3E1A9D81CF.jpg","video_url":"","width":"100","height":500,"text_size":120,"text_align":"vertical-center horizontal-center","focal_point":"center","color_accent":"rgba(0,0,0,0)","boxed":false,"framed":false}},"d8284f45-5fb8-41f4-a5c7-6a4bcbcb2401":{"type":"banner","disabled":true,"settings":{"heading":"Banner promotion","text":"Add the details of your promotion in smaller text","link":"","label":"Shop now","color_tint":"#000000","color_tint_opacity":8,"framed":false}},"c21cff6d-59a0-492a-aaa7-acb62103782f":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/D5CFC67C-BD87-4C65-B7BA-03E3591B0B2B.jpg","link":"","width":"100"}}},"block_order":["advanced","d8284f45-5fb8-41f4-a5c7-6a4bcbcb2401","c21cff6d-59a0-492a-aaa7-acb62103782f"],"settings":{"full_width":false,"gutter_size":20,"space_above":true,"space_below":false}},"main-collection":{"type":"main-collection","blocks":{"collection_description":{"type":"collection_description","disabled":true,"settings":{}},"subcollections":{"type":"subcollections","settings":{"subcollections_per_row":5}},"product_grid":{"type":"product_grid","settings":{"enable_collection_count":true,"per_row":4,"rows_per_page":7,"mobile_flush_grid":false}}},"block_order":["collection_description","subcollections","product_grid"],"settings":{"enable_sidebar":true,"collapsed":true,"filter_style":"sidebar","enable_color_swatches":false,"enable_sort":true}},"1649653909a20216dc":{"type":"testimonials","blocks":{"164965390913e2686a-0":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Shipping was fast & quality is great! <\/p>","author":"Emily Moreno","author_info":"Los Angeles, CA"}},"164965390913e2686a-1":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Ordered a necklace just as described. Thanks :)<\/p>","author":"Mark A.","author_info":"Dallas,Texas"}},"164965390913e2686a-2":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Very beautiful jewelry 🔥😍 <br\/>Been buying here lately and never disappoint me! ❤️<\/p>","author":"Katy G.","author_info":"Settale,Washington"}},"164965390913e2686a-3":{"type":"testimonial","disabled":true,"settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}},"164965390913e2686a-4":{"type":"testimonial","disabled":true,"settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author's name","author_info":"Los Angeles, CA"}}},"block_order":["164965390913e2686a-0","164965390913e2686a-1","164965390913e2686a-2","164965390913e2686a-3","164965390913e2686a-4"],"settings":{"title":"Testimonials","align_text":"center","round_images":true,"color_background":"#ffffff","color_text":"#1c1d1d"}}},"order":["collection-header","promo-grid","main-collection","1649653909a20216dc"]}
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "enable": true,
+        "collection_image_enable": true,
+        "parallax": true
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "disabled": true,
+      "blocks": {
+        "advanced": {
+          "type": "advanced",
+          "disabled": true,
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/C2DA081B-0D43-433A-8923-9E3E1A9D81CF.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "focal_point": "center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "d8284f45-5fb8-41f4-a5c7-6a4bcbcb2401": {
+          "type": "banner",
+          "disabled": true,
+          "settings": {
+            "heading": "Banner promotion",
+            "text": "Add the details of your promotion in smaller text",
+            "link": "",
+            "label": "Shop now",
+            "color_tint": "#000000",
+            "color_tint_opacity": 8,
+            "framed": false
+          }
+        },
+        "c21cff6d-59a0-492a-aaa7-acb62103782f": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/D5CFC67C-BD87-4C65-B7BA-03E3591B0B2B.jpg",
+            "link": "",
+            "width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "advanced",
+        "d8284f45-5fb8-41f4-a5c7-6a4bcbcb2401",
+        "c21cff6d-59a0-492a-aaa7-acb62103782f"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": true,
+        "space_below": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "subcollections": {
+          "type": "subcollections",
+          "settings": {
+            "subcollections_per_row": 5
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "enable_collection_count": true,
+            "per_row": 4,
+            "rows_per_page": 7,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "subcollections",
+        "product_grid"
+      ],
+      "settings": {
+        "enable_sidebar": true,
+        "collapsed": true,
+        "filter_style": "sidebar",
+        "enable_color_swatches": false,
+        "enable_sort": true
+      }
+    },
+    "1649653909a20216dc": {
+      "type": "testimonials",
+      "blocks": {
+        "164965390913e2686a-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Shipping was fast & quality is great! <\/p>",
+            "author": "Emily Moreno",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "164965390913e2686a-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Ordered a necklace just as described. Thanks :)<\/p>",
+            "author": "Mark A.",
+            "author_info": "Dallas,Texas"
+          }
+        },
+        "164965390913e2686a-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Very beautiful jewelry 🔥😍 <br\/>Been buying here lately and never disappoint me! ❤️<\/p>",
+            "author": "Katy G.",
+            "author_info": "Settale,Washington"
+          }
+        },
+        "164965390913e2686a-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Great customer service & jewelry. <\/p>",
+            "author": "Jesus R.",
+            "author_info": "Seaside, CA"
+          }
+        },
+        "164965390913e2686a-4": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "164965390913e2686a-0",
+        "164965390913e2686a-1",
+        "164965390913e2686a-2",
+        "164965390913e2686a-3",
+        "164965390913e2686a-4"
+      ],
+      "settings": {
+        "title": "Testimonials",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#ffffff",
+        "color_text": "#1c1d1d"
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "promo-grid",
+    "main-collection",
+    "1649653909a20216dc"
+  ]
+}
