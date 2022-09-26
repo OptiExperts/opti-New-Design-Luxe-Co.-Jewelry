@@ -160,7 +160,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Best Sellers",
-        "home_featured_products": "top-selling",
+        "home_featured_products": "ets-fs-best-selling-products",
         "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
