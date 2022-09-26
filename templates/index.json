@@ -251,8 +251,8 @@
     "16495794188b0fbe21": {
       "type": "featured-collection",
       "settings": {
-        "title": "New 14K Gold Plated & Gold Filled Jewelry",
-        "home_featured_products": "new-14k-gold-plated-gold-filled-jewelry",
+        "title": "New Arrivals",
+        "home_featured_products": "newest-products",
         "per_row": 5,
         "rows": 1,
         "mobile_scrollable": true,
