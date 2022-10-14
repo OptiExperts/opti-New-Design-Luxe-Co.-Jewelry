@@ -361,6 +361,9 @@
     "checkout": {
       "marketing": {
         "accept_sms_checkbox_label": "Join our SMS list and receive exclusive updates about sales, discounts, and more!"
+      },
+      "contact": {
+        "phone_label": "Phone - Receive support and offer via text message"
       }
     }
   },
