@@ -80,10 +80,10 @@
         "template--15807806177448__4a1abb83-55ee-4e39-91ac-e3cc160e38aa-1666012372343d8788-0": {
           "type": "advanced",
           "settings": {
-            "subheading": "Limited time",
-            "heading": "Announce your promotion",
-            "textarea": "Include the smaller details of your promotion in text below the title.",
-            "cta_text1": "Shop This",
+            "subheading": "",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "",
             "cta_link1": "",
             "cta_text2": "Shop All",
             "cta_link2": "",
@@ -91,9 +91,9 @@
             "width": "33",
             "height": 500,
             "text_size": 100,
-            "text_align": "vertical-center horizontal-center",
-            "focal_point": "center",
-            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "focal_point": "top",
+            "color_accent": "#ffffff",
             "boxed": false,
             "framed": false
           }
