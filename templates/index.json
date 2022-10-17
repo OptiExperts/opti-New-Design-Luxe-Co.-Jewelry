@@ -101,10 +101,10 @@
         "template--15807806177448__4a1abb83-55ee-4e39-91ac-e3cc160e38aa-1666012372343d8788-1": {
           "type": "advanced",
           "settings": {
-            "subheading": "Limited time",
-            "heading": "Announce your promotion",
-            "textarea": "Include the smaller details of your promotion in text below the title.",
-            "cta_text1": "Shop This",
+            "subheading": "",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "",
             "cta_link1": "",
             "cta_text2": "Shop All",
             "cta_link2": "",
@@ -112,9 +112,9 @@
             "width": "33",
             "height": 500,
             "text_size": 100,
-            "text_align": "vertical-center horizontal-center",
+            "text_align": "vertical-bottom horizontal-center",
             "focal_point": "center",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "#ffffff",
             "boxed": false,
             "framed": false
           }
@@ -122,10 +122,10 @@
         "a01e650f-1d5e-4ffb-851d-f0979ea8ca57": {
           "type": "advanced",
           "settings": {
-            "subheading": "Limited time",
-            "heading": "Announce your promotion",
-            "textarea": "Include the smaller details of your promotion in text below the title.",
-            "cta_text1": "Shop This",
+            "subheading": "",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "",
             "cta_link1": "",
             "cta_text2": "Shop All",
             "cta_link2": "",
@@ -133,9 +133,9 @@
             "width": "33",
             "height": 500,
             "text_size": 120,
-            "text_align": "vertical-center horizontal-center",
+            "text_align": "vertical-bottom horizontal-center",
             "focal_point": "center",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "#ffffff",
             "boxed": false,
             "framed": false
           }
@@ -143,10 +143,10 @@
         "23f60dbf-1d89-4f48-845f-f3b42dcc64ac": {
           "type": "advanced",
           "settings": {
-            "subheading": "Limited time",
-            "heading": "Announce your promotion",
-            "textarea": "Include the smaller details of your promotion in text below the title.",
-            "cta_text1": "Shop This",
+            "subheading": "",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "",
             "cta_link1": "",
             "cta_text2": "Shop All",
             "cta_link2": "",
@@ -154,9 +154,9 @@
             "width": "33",
             "height": 300,
             "text_size": 120,
-            "text_align": "vertical-center horizontal-center",
+            "text_align": "vertical-bottom horizontal-center",
             "focal_point": "center",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "#ffffff",
             "boxed": false,
             "framed": false
           }
@@ -164,10 +164,10 @@
         "91a1902c-a04f-4d7b-83d5-3e987316b647": {
           "type": "advanced",
           "settings": {
-            "subheading": "Limited time",
-            "heading": "Announce your promotion",
-            "textarea": "Include the smaller details of your promotion in text below the title.",
-            "cta_text1": "Shop This",
+            "subheading": "",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "",
             "cta_link1": "",
             "cta_text2": "Shop All",
             "cta_link2": "",
@@ -175,9 +175,9 @@
             "width": "33",
             "height": 300,
             "text_size": 120,
-            "text_align": "vertical-center horizontal-center",
+            "text_align": "vertical-bottom horizontal-center",
             "focal_point": "center",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "#ffffff",
             "boxed": false,
             "framed": false
           }
@@ -185,10 +185,10 @@
         "ded865a3-8174-4eba-b7fc-f34f700208d2": {
           "type": "advanced",
           "settings": {
-            "subheading": "Limited time",
-            "heading": "Announce your promotion",
-            "textarea": "Include the smaller details of your promotion in text below the title.",
-            "cta_text1": "Shop This",
+            "subheading": "",
+            "heading": "",
+            "textarea": "",
+            "cta_text1": "",
             "cta_link1": "",
             "cta_text2": "Shop All",
             "cta_link2": "",
@@ -196,9 +196,9 @@
             "width": "33",
             "height": 500,
             "text_size": 120,
-            "text_align": "vertical-center horizontal-center",
+            "text_align": "vertical-bottom horizontal-center",
             "focal_point": "center",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "#ffffff",
             "boxed": false,
             "framed": false
           }
