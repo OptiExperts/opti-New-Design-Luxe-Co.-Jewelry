@@ -41,7 +41,7 @@
     "type_product_style": "body",
     "type_collection_font": "body",
     "type_collection_size": 20,
-    "button_style": "square",
+    "button_style": "round",
     "icon_weight": "2px",
     "icon_linecaps": "miter",
     "quick_shop_enable": true,
