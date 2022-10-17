@@ -49,7 +49,7 @@
     "product_grid_image_size": "natural",
     "product_hover_image": true,
     "enable_product_reviews": true,
-    "collection_grid_style": "below",
+    "collection_grid_style": "overlaid",
     "collection_grid_shape": "square",
     "collection_grid_image": "collection",
     "collection_grid_text_align": "center",
