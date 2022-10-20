@@ -76,6 +76,7 @@
     },
     "4a1abb83-55ee-4e39-91ac-e3cc160e38aa": {
       "type": "promo-grid",
+      "disabled": true,
       "blocks": {
         "template--15807806177448__4a1abb83-55ee-4e39-91ac-e3cc160e38aa-1666012372343d8788-0": {
           "type": "advanced",
@@ -692,6 +693,7 @@
     },
     "34066cd4-08ee-4f9b-b567-a26f0d34d261": {
       "type": "featured-collections",
+      "disabled": true,
       "blocks": {
         "template--15807806177448__34066cd4-08ee-4f9b-b567-a26f0d34d261-1666228603c627f5c4-0": {
           "type": "collection",
