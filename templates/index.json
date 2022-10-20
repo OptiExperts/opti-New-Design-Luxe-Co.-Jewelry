@@ -250,6 +250,7 @@
     },
     "featured-collections": {
       "type": "featured-collections",
+      "disabled": true,
       "blocks": {
         "featured-collections-0": {
           "type": "collection",
@@ -293,6 +294,7 @@
         },
         "dfec6ccf-9e0b-487c-8ee9-69c4962a920e": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "saint-jude-necklaces",
             "title": "",
@@ -687,6 +689,55 @@
         "full_width": false,
         "space_around": true
       }
+    },
+    "34066cd4-08ee-4f9b-b567-a26f0d34d261": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--15807806177448__34066cd4-08ee-4f9b-b567-a26f0d34d261-1666228603c627f5c4-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--15807806177448__34066cd4-08ee-4f9b-b567-a26f0d34d261-1666228603c627f5c4-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--15807806177448__34066cd4-08ee-4f9b-b567-a26f0d34d261-1666228603c627f5c4-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--15807806177448__34066cd4-08ee-4f9b-b567-a26f0d34d261-1666228603c627f5c4-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15807806177448__34066cd4-08ee-4f9b-b567-a26f0d34d261-1666228603c627f5c4-0",
+        "template--15807806177448__34066cd4-08ee-4f9b-b567-a26f0d34d261-1666228603c627f5c4-1",
+        "template--15807806177448__34066cd4-08ee-4f9b-b567-a26f0d34d261-1666228603c627f5c4-2",
+        "template--15807806177448__34066cd4-08ee-4f9b-b567-a26f0d34d261-1666228603c627f5c4-3"
+      ],
+      "settings": {
+        "title": "Collection list",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
     }
   },
   "order": [
@@ -706,6 +757,7 @@
     "promo-grid2",
     "background-image-text",
     "1655884476b2895f4c",
-    "165052755720e7fb94"
+    "165052755720e7fb94",
+    "34066cd4-08ee-4f9b-b567-a26f0d34d261"
   ]
 }
