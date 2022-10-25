@@ -75,6 +75,92 @@
         "autoplay_speed": 5
       }
     },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "featured-collections-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "religious-jewelry-14k-gold-plated-gold-filled",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "ear-studs",
+            "title": "",
+            "focal_point": "bottom center"
+          }
+        },
+        "c0f8e043-95c9-420e-a382-b9f3a46eba90": {
+          "type": "collection",
+          "settings": {
+            "collection": "earrings",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "69a112d8-bd4c-4135-840a-e12f9e6286e4": {
+          "type": "collection",
+          "settings": {
+            "collection": "bracelets",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "991527e6-3a16-451a-904a-d76781ba9853": {
+          "type": "collection",
+          "settings": {
+            "collection": "jade-jewelry-1",
+            "title": "Jade Jewelry",
+            "focal_point": "center center"
+          }
+        },
+        "dfec6ccf-9e0b-487c-8ee9-69c4962a920e": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "saint-jude-necklaces",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "fa864c87-9304-4f88-820f-bdd66baca596": {
+          "type": "collection",
+          "settings": {
+            "collection": "anklets",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "624e5196-dd8a-495c-8e52-6e292ee4092b": {
+          "type": "collection",
+          "settings": {
+            "collection": "women-rings",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "featured-collections-0",
+        "featured-collections-1",
+        "c0f8e043-95c9-420e-a382-b9f3a46eba90",
+        "69a112d8-bd4c-4135-840a-e12f9e6286e4",
+        "991527e6-3a16-451a-904a-d76781ba9853",
+        "dfec6ccf-9e0b-487c-8ee9-69c4962a920e",
+        "fa864c87-9304-4f88-820f-bdd66baca596",
+        "624e5196-dd8a-495c-8e52-6e292ee4092b"
+      ],
+      "settings": {
+        "title": "OUR COLLECTIONS",
+        "divider": false,
+        "per_row": 3,
+        "enable_gutter": true
+      }
+    },
     "4a1abb83-55ee-4e39-91ac-e3cc160e38aa": {
       "type": "promo-grid",
       "blocks": {
@@ -247,92 +333,6 @@
         "gutter_size": 20,
         "space_above": true,
         "space_below": true
-      }
-    },
-    "featured-collections": {
-      "type": "featured-collections",
-      "blocks": {
-        "featured-collections-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "religious-jewelry-14k-gold-plated-gold-filled",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "featured-collections-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "ear-studs",
-            "title": "",
-            "focal_point": "bottom center"
-          }
-        },
-        "c0f8e043-95c9-420e-a382-b9f3a46eba90": {
-          "type": "collection",
-          "settings": {
-            "collection": "earrings",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "69a112d8-bd4c-4135-840a-e12f9e6286e4": {
-          "type": "collection",
-          "settings": {
-            "collection": "bracelets",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "991527e6-3a16-451a-904a-d76781ba9853": {
-          "type": "collection",
-          "settings": {
-            "collection": "jade-jewelry-1",
-            "title": "Jade Jewelry",
-            "focal_point": "center center"
-          }
-        },
-        "dfec6ccf-9e0b-487c-8ee9-69c4962a920e": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "collection": "saint-jude-necklaces",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "fa864c87-9304-4f88-820f-bdd66baca596": {
-          "type": "collection",
-          "settings": {
-            "collection": "anklets",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "624e5196-dd8a-495c-8e52-6e292ee4092b": {
-          "type": "collection",
-          "settings": {
-            "collection": "women-rings",
-            "title": "",
-            "focal_point": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "featured-collections-0",
-        "featured-collections-1",
-        "c0f8e043-95c9-420e-a382-b9f3a46eba90",
-        "69a112d8-bd4c-4135-840a-e12f9e6286e4",
-        "991527e6-3a16-451a-904a-d76781ba9853",
-        "dfec6ccf-9e0b-487c-8ee9-69c4962a920e",
-        "fa864c87-9304-4f88-820f-bdd66baca596",
-        "624e5196-dd8a-495c-8e52-6e292ee4092b"
-      ],
-      "settings": {
-        "title": "OUR COLLECTIONS",
-        "divider": false,
-        "per_row": 3,
-        "enable_gutter": true
       }
     },
     "16495794188b0fbe21": {
@@ -761,8 +761,8 @@
   },
   "order": [
     "slideshow",
-    "4a1abb83-55ee-4e39-91ac-e3cc160e38aa",
     "featured-collections",
+    "4a1abb83-55ee-4e39-91ac-e3cc160e38aa",
     "16495794188b0fbe21",
     "featured-collection",
     "164957799276ec05b3",
