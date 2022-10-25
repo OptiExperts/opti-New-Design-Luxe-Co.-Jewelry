@@ -43,18 +43,19 @@
         },
         "dc1703e6-be92-4124-8ba1-643b075d200a": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "top_subheading": "",
-            "title": "Two line\ntitle slide.",
+            "title": "",
             "title_size": 80,
             "subheading": "And optional subtext",
             "link": "",
-            "link_text": "Optional button",
-            "link_2": "",
+            "link_text": "Shop This",
+            "link_2": "shopify:\/\/collections\/dainty-collection",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/C3F8E432-36B3-40F6-817E-0580AA8A0E2F.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/C3F8E432-36B3-40F6-817E-0580AA8A0E2F.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -67,11 +68,11 @@
       ],
       "settings": {
         "section_height": "750px",
-        "mobile_height": "250px",
+        "mobile_height": "auto",
         "parallax": false,
-        "style": "bars",
+        "style": "dots",
         "autoplay": true,
-        "autoplay_speed": 7
+        "autoplay_speed": 5
       }
     },
     "4a1abb83-55ee-4e39-91ac-e3cc160e38aa": {
