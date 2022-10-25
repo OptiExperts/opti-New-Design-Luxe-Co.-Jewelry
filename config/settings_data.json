@@ -81,7 +81,6 @@
         "blocks": {
           "1524770292306": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
               "text": "100% High Quality Guarantee\/ Safe & Secure Checkout",
               "link_text": "Free & Fast 3-7 Days Shipping to U.S. Orders",
@@ -90,7 +89,6 @@
           },
           "1524770296206": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
               "text": "Get 10% OFF, Use Promo Code: SPRING",
               "link_text": "",
