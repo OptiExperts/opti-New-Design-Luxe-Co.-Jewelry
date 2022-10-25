@@ -1,4 +1,4 @@
-<script type="lazyload2">
+<script type="text/javascript">
   //BOOSTER APPS COMMON JS CODE
   window.BoosterApps = window.BoosterApps || {};
   window.BoosterApps.common = window.BoosterApps.common || {};
@@ -27,29 +27,26 @@
   window.BoosterApps.common.vapid_public_key = "BO5RJ2FA8w6MW2Qt1_MKSFtoVpVjUMLYkHb2arb7zZxEaYGTMuLvmZGabSHj8q0EwlzLWBAcAU_0z-z9Xps8kF8=";
   window.BoosterApps.global_config = {{shop.metafields.ba_global.config | json}};
 
-
-
-    window.BoosterApps.pu_config = {{shop.metafields.ba_pu.config | json}};
-
-    window.BoosterApps.widgets_config = {{shop.metafields.ba_widgets.config | json}};
-
-
   {% if product %}
     if (window.BoosterApps.common.template == 'product'){
       window.BoosterApps.common.product = {
         id: {{product.id}}, price: {{product.price}}, handle: {{product.handle | json}}, tags: {{ product.tags | json}},
         available: {{product.available}}, title: {{product.title | json}}, variants: {{product.variants | json}}
       };
-      window.BoosterApps.common.product.review_data = {{product.metafields.ba_rev.review_data | json}};
     }
   {% endif %}
+
+
+
+    window.BoosterApps.pu_config = {{shop.metafields.ba_pu.config | json}};
+
+    window.BoosterApps.widgets_config = {{shop.metafields.ba_widgets.config | json}};
 
 </script>
 
 
-<script type="lazyload2">
-  !function(e){var t={};function r(n){if(t[n])return t[n].exports;var o=t[n]={i:n,l:!1,exports:{}};return e[n].call(o.exports,o,o.exports,r),o.l=!0,o.exports}r.m=e,r.c=t,r.d=function(e,t,n){r.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:n})},r.r=function(e){"undefined"!==typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},r.t=function(e,t){if(1&t&&(e=r(e)),8&t)return e;if(4&t&&"object"===typeof e&&e&&e.__esModule)return e;var n=Object.create(null);if(r.r(n),Object.defineProperty(n,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var o in e)r.d(n,o,function(t){return e[t]}.bind(null,o));return n},r.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return r.d(t,"a",t),t},r.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},r.p="https://recover.rivo.io/packs/",r(r.s=85)}({85:function(e,t){}});
-//# sourceMappingURL=application-cf961b267d7b9e6a50fc.js.map
+<script type="text/javascript">
+  
 
   //Global snippet for Booster Apps
   //this is updated automatically - do not edit manually.
@@ -76,7 +73,6 @@
   }
 
   function loadAppScripts(){
-
 
 
       loadScript(window.BoosterApps.global_config.asset_urls.pu.init_js, true, function(){});

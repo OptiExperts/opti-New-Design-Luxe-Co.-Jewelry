@@ -1101,7 +1101,7 @@
       request(url, { shopId }).then(res => {
         const { code, data } = res;
         if (code === 200) {
-          if (data.status == 1 || data.status == 2 || data.snsStatus) {
+          if (data.status == 1 || data.status == 2 || data.status == 0 ||data.snsStatus) {
             selBtnStatus = 1;
             initEmailToMeElement();
           } else {
